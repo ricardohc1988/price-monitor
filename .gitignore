@@ -1,0 +1,20 @@
+# Pipenv files
+Pipfile.lock
+.venv/
+venv/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyd
+*.pyo
+
+# Log files
+*.log
+logs/
+
+config_private.py  
+*.env  
+*.bat
+products.xlsx
